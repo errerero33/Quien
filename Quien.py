@@ -1,30 +1,31 @@
 Print('Hola! Este és un programa que nos ayudará a saber quién te a preguntado')
 
-input(quién?)
+input(quién)
 if
 
-quién? = yo:
+quién = yo:
 print("Te falta calle")
 
-else 
-quién? = tu:
+elif
+quién = tu:
 print("No que quien te a preguntado")
 
-else
+elif
 
-quién? = el:
+quién = el:
 print('ok')
 
-else
+elif
 
-quién? = nosotros:
+quién = nosotros:
 print("just kidding ")
 
-else
+elif
 
-quién? = vosotros:
+quién = vosotros:
 print('te lo pasas bien')
 
-else 
-quién? = ellos:
+elif
+
+quién = ellos:
 print("lol")
